@@ -24,12 +24,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Workflow Configuration For Education.
+email: anstimo49@gmail.com
+author: Kweyu Timothy
 
-# Copyright setting
-# You can use any html code, currently below placeholders are available:
+# "Unpublished work (cleft) {2025} {Kweyu Timothy}"
+# description: Supporting code quality, grading, and collaboration in educational projects.
 # * current year: {currentYear}
 # * author: {author} (Value is the same as site.author)
 # * copyright: (c) - ©
